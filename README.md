@@ -106,5 +106,3 @@ UI changes based on weather:
 - OpenWeatherMap API
 
 ---
-
-## 📁 Project Structure
